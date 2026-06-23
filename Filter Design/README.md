@@ -16,7 +16,7 @@ The repository contains:
 
 ---
 
-# Project Structure
+# Folder Structure
 
 ```text
 .
